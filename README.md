@@ -3,7 +3,7 @@
 Índices e chaves (noções)
 Disciplina: Banco de Dados
 
-#❓ Sobre o Projeto
+# ❓ Sobre o Projeto
 Este repositório mostra parte prática sobre índices e chaves, se aprofundado em conceitos como KEYS (PRIMARY e UNIQUE), índices (simples e compostos), seletividade (baixa e alta) e impacto em INSERT, UPDATE e DELETE.
 
 # 💻 Tecnologias Utilizadas
