@@ -1,4 +1,4 @@
-🎓 Seminário — Banco de Dados (Grupo 10)
+# 🎓 Seminário — Banco de Dados (Grupo 10)
 📌 Tema 9
 Índices e chaves (noções)
 Disciplina: Banco de Dados
