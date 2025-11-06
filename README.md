@@ -16,6 +16,6 @@ Kaio Guilherme Morais Pires da Cruz
 # 🧾 Projeto acadêmico — Centro Universitário do Planalto Central Apparecido dos Santos (UNICEPLAC) Tema: Índices e chaves (noções)
 
 # ⛲ Fontes
-https://www.w3schools.com/sql/sql_create_index.asp
-https://www.pingcap.com/article/index-vs-primary-key-unique-database-examples
+https://www.w3schools.com/sql/sql_create_index.asp \
+https://www.pingcap.com/article/index-vs-primary-key-unique-database-examples \
 https://www.quora.com/What-does-high-low-selectivity-mean-in-query-optimization
