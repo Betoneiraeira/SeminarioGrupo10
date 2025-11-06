@@ -19,3 +19,7 @@ SELECT * FROM usuario = 'São Paulo'
 
 CREATE INDEX idx_email_cpf ON usuario (email, cpf);
 SELECT * FROM usuario WHERE email = 'carlos@email.com' AND cpf = '65471289345';
+
+EXPLAIN SELECT * FROM usuario WHERE id=2;
+UPDATE usuario SET nome = 'Cleber' WHERE id = 1;
+DELETE FROM usuario WHERE id = 1;
