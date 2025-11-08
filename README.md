@@ -17,5 +17,5 @@ Kaio Guilherme Morais Pires da Cruz
 
 # ⛲ Fontes
 [Criação do índice](https://www.w3schools.com/sql/sql_create_index.asp) \
-Índice vs Chave Primária - https://www.pingcap.com/article/index-vs-primary-key-unique-database-examples \
-Seletividade - https://www.quora.com/What-does-high-low-selectivity-mean-in-query-optimization
+[Índice vs Chave Primária](https://www.pingcap.com/article/index-vs-primary-key-unique-database-examples) \
+[Seletividade](https://www.quora.com/What-does-high-low-selectivity-mean-in-query-optimization)
